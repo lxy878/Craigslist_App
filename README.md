@@ -21,5 +21,5 @@ Note: multiple lines of searching are allowed.<br>
 Note: serverCity and searchType can be empty.
 
 GUI Demo Showcase:<br>
-<img src='https://github.com/lxy878/week2/blob/master/FlixApp.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/lxy878/JavaApplication/blob/master/DemoJavaApp.gif' title='Video Walkthrough' width='400' height='300' alt='Video Walkthrough' />
 
