@@ -1,0 +1,1 @@
+serverCity=new york;searchType=housing;search=single no pet;limit=10

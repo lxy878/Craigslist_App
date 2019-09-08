@@ -1,0 +1,72 @@
+https://albany.craigslist.org/,albany
+https://allentown.craigslist.org/,allentown
+https://baltimore.craigslist.org/,baltimore
+https://binghamton.craigslist.org/,binghamton
+https://catskills.craigslist.org/,catskills
+https://cnj.craigslist.org/,central nj
+https://delaware.craigslist.org/,delaware
+https://newlondon.craigslist.org/,eastern ct
+https://easternshore.craigslist.org/,eastern shore
+https://harrisburg.craigslist.org/,harrisburg
+https://hartford.craigslist.org/,hartford
+https://hudsonvalley.craigslist.org/,hudson valley
+https://jerseyshore.craigslist.org/,jersey shore
+https://lancaster.craigslist.org/,lancaster
+https://longisland.craigslist.org/,long island
+https://newhaven.craigslist.org/,new haven
+https://newjersey.craigslist.org/,north jersey
+https://nwct.craigslist.org/,northwest ct
+https://oneonta.craigslist.org/,oneonta
+https://philadelphia.craigslist.org/,philadelphia
+https://poconos.craigslist.org/,poconos
+https://reading.craigslist.org/,reading
+https://providence.craigslist.org/,rhode island
+https://scranton.craigslist.org/,scranton
+https://southcoast.craigslist.org/,south coast
+https://southjersey.craigslist.org/,south jersey
+https://westernmass.craigslist.org/,western mass
+https://williamsport.craigslist.org/,williamsport
+https://worcester.craigslist.org/,worcester
+https://york.craigslist.org/,york
+https://atlanta.craigslist.org/,atlanta
+https://austin.craigslist.org/,austin
+https://boston.craigslist.org/,boston
+https://chicago.craigslist.org/,chicago
+https://dallas.craigslist.org/,dallas
+https://denver.craigslist.org/,denver
+https://detroit.craigslist.org/,detroit
+https://houston.craigslist.org/,houston
+https://lasvegas.craigslist.org/,las vegas
+https://losangeles.craigslist.org/,los angeles
+https://miami.craigslist.org/,miami
+https://minneapolis.craigslist.org/,minneapolis
+https://newyork.craigslist.org/,new york
+https://orangecounty.craigslist.org/,orange co
+https://philadelphia.craigslist.org/,philadelphia
+https://phoenix.craigslist.org/,phoenix
+https://portland.craigslist.org/,portland
+https://raleigh.craigslist.org/,raleigh
+https://sacramento.craigslist.org/,sacramento
+https://sandiego.craigslist.org/,san diego
+https://seattle.craigslist.org/,seattle
+https://sfbay.craigslist.org/,sf bayarea
+https://washingtondc.craigslist.org/,wash dc
+https://rio.craigslist.org/,brazil
+https://mexicocity.craigslist.org/,mexico
+https://shanghai.craigslist.org/,china
+https://bangalore.craigslist.org/,india
+https://telaviv.craigslist.org/,israel
+https://tokyo.craigslist.org/,japan
+https://manila.craigslist.org/,philippines
+https://moscow.craigslist.org/,russia
+https://singapore.craigslist.org/,singapore
+https://paris.craigslist.org/,france
+https://berlin.craigslist.org/,germany
+https://rome.craigslist.org/,italy
+https://moscow.craigslist.org/,russia
+https://madrid.craigslist.org/,spain
+https://zurich.craigslist.org/,switzerland
+https://telaviv.craigslist.org/,israel
+https://sydney.craigslist.org/,australia
+https://auckland.craigslist.org/,new zealand
+https://manila.craigslist.org/,philippines

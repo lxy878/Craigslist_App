@@ -1,0 +1,8 @@
+ccc,community
+eee,events
+sss,for sale
+ggg,gigs
+hhh,housing
+jjj,jobs
+rrr,resumes
+bbb,services
