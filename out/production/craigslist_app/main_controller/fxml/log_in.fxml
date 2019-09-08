@@ -1,0 +1,29 @@
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.layout.GridPane?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.control.PasswordField?>
+<?import javafx.scene.control.Button?>
+<GridPane fx:id="scene_log" fx:controller="main_controller.controller.LogInController"
+          xmlns:fx="http://javafx.com/fxml" alignment="center" hgap="10" vgap="10">
+    <padding>
+        <Insets top="10"/>
+    </padding>
+    <VBox GridPane.columnIndex="0" GridPane.rowIndex="0" spacing="10">
+        <HBox spacing="10" GridPane.columnIndex="0" GridPane.rowIndex="0">
+            <Label text="Account: "/>
+            <TextField fx:id="accountField" onKeyReleased="#inputChecker"/>
+        </HBox>
+        <HBox spacing="10" GridPane.columnIndex="0" GridPane.rowIndex="1">
+            <Label text="Password: "/>
+            <PasswordField fx:id="passwordField" onKeyReleased="#inputChecker"/>
+        </HBox>
+    </VBox>
+    <HBox GridPane.columnIndex="0" GridPane.rowIndex="1" spacing="20">
+        <Button fx:id="button_reg" text="Register" onAction="#buttonAction"/>
+        <Button fx:id="button_log" text="Log In" onAction="#buttonAction"/>
+    </HBox>
+</GridPane>

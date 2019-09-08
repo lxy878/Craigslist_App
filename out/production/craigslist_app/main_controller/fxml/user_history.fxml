@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ListView?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.control.Label?>
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.ComboBox?>
+<?import javafx.collections.FXCollections?>
+<?import java.lang.String?>
+<?import javafx.scene.control.TextField?>
+<BorderPane fx:id="user_history" xmlns="http://javafx.com/javafx"
+            xmlns:fx="http://javafx.com/fxml"
+            fx:controller="main_controller.controller.HistoryController">
+    <top>
+        <GridPane hgap="10" vgap="10">
+            <BorderPane.margin>
+                <Insets bottom="10" top="10" left="10"/>
+            </BorderPane.margin>
+            <Button fx:id="button_back" text="Return" onAction="#buttonAction" GridPane.rowIndex="1" GridPane.columnIndex="35"/>
+            <Label text="Delete: " GridPane.columnIndex="0" GridPane.rowIndex="0"/>
+            <Button fx:id="button_delete" text="Delete" onAction="#buttonAction" GridPane.columnIndex="1" GridPane.rowIndex="0"/>
+            <Button fx:id="button_modify" text="Modify" onAction="#buttonAction"
+            GridPane.rowIndex="1" GridPane.columnIndex="4"/>
+            <Label text="Modify: " GridPane.rowIndex="1" GridPane.columnIndex="0"/>
+            <TextField fx:id="modify_value" GridPane.columnIndex="3" GridPane.rowIndex="1"/>
+            <ComboBox fx:id="modify_target" GridPane.rowIndex="1" GridPane.columnIndex="1">
+                <items>
+                    <FXCollections fx:factory="observableArrayList">
+                        <String fx:value="price"/>
+                        <String fx:value="title"/>
+                        <String fx:value="content"/>
+                    </FXCollections>
+                </items>
+                <value>
+                    <String fx:value="price" />
+                </value>
+            </ComboBox>
+        </GridPane>
+    </top>
+    <left>
+        <ListView fx:id="list_result" onMouseClicked="#selected"/>
+    </left>
+    <center>
+        <VBox style="-fx-background-color: white">
+            <HBox>
+                <ImageView fx:id="imageView"/>
+                <VBox spacing="40">
+                    <Label fx:id="region"/>
+                    <Label fx:id="place"/>
+                    <Label fx:id="price"/>
+                </VBox>
+            </HBox>
+            <TextArea fx:id="content" VBox.vgrow="ALWAYS"/>
+        </VBox>
+    </center>
+</BorderPane>
