@@ -2,7 +2,7 @@
 
 ## Purpose:
 
-a practic of fetching contexts from web pages by using Regex and Java libraries and designing GUIs by using Javafx and FXML.
+A practic of fetching contexts from web pages by using Regex and Java libraries and designing GUIs by using Javafx and FXML.
 
 ### Overview:
 - Developed a Java application that follows users searching information from craigslist.org.
@@ -36,15 +36,15 @@ a practic of fetching contexts from web pages by using Regex and Java libraries 
 
 ### Access:
 - Command Line.  The program is allowed the command lines.  See testing section.
-- GUI.  See User Manual.
+- GUI.  [See User Manual](https://github.com/lxy878/Craigslist_App/blob/master/UserManual.pdf).
 
 ### Other features:
 - The users have the option to limit the number of searching results.
 - The user can an advanced search, that chooses attributes of cities and categories.
 
-## Flow Chart:
+## Simple Flow Chart:
 
-<img src='' title='Flow Chart' width='400' height='300' alt='Flow Chart' />
+<img src='https://github.com/lxy878/Craigslist_App/blob/master/DemoJavaApp.gif' title='Flow Chart' width='400' height='300' alt='Flow Chart' />
 
 ## Testing:
 
@@ -76,6 +76,3 @@ Note: serverCity and searchType can be empty.
 ## GUI Demo Showcase:
 
 <img src='https://github.com/lxy878/JavaApplication/blob/master/DemoJavaApp.gif' title='Video Walkthrough' width='400' height='300' alt='Video Walkthrough' />
-
-http://github.com - automatic!
-[GitHub](http://github.com)
