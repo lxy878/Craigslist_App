@@ -2,10 +2,10 @@
 
 ## Purpose:
 
-A practic of fetching contexts from web pages by using Regex and Java libraries and designing GUIs by using Javafx and FXML.
+A practice of fetching contexts from web pages by using **Regex** and **Java** libraries and designing GUIs by using **Javafx** and **FXML**.
 
 ### Overview:
-- Developed a Java application that follows users searching information from craigslist.org.
+- Developed a Java application that follows users searching for information from craigslist.org.
 - Built a persistent data storage by implementing Hashtable with txt files and jpg files.
 - Designed GUIs and command lines that allow users/admin searching and maintaining their data.
 
@@ -14,33 +14,33 @@ A practic of fetching contexts from web pages by using Regex and Java libraries 
 ### Process of Searching/Collecting data:
 
 - Enter a search term and create a query with the target website (Craigslist.org).
-- send the created URL out as request and retrieve web document (html) of the result page.
+- send the created URL out as a request and retrieve web document (HTML) of the result page.
 - collect result URLs from the result page by using Regex.
-- send each result URL out and retrieve html of the context page.
+- send each result URL out and retrieve HTML of the context page.
 - record collecting terms such as title, image, description and so on by using Regex.
-- store collecting terms to hashTable data structure and txt files as a local storage.
+- store collecting terms to hashTable data structure and txt files as local storage.
 
 ### GUIs:
 
-- User Registration:  a user account system allows new users to create their account and to log in their accounts by names and passwords.
+- User Registration: a user account system allows new users to create their account and to log in their accounts by names and passwords.
 - User Account: 
-    1. allows directly to search target terms from GUI to Craigslist.org.
-    2. allows offline search from the local storage.
-    3. provides users' searching history, that can be edited and deleted their data from the storage,
+  1. allows directly to search target terms from GUI to Craigslist.org.
+  2. allows offline search from the local storage.
+  3. provides users' searching history, that can be edited and deleted their data from the storage,
 - Admin Account: 
-    1. allows directly to search target terms from GUI to Craigslist.org.
-    2. allows offline search data of all/some users' data.
-    3. rebuilds the system from backup data.
-- Online search:  allows users to obtain data and a image through GUI and persist the data on the local storage.  
-- Offline search: allows users to search terms through the local storage.  For user accounts, the program will conduct offline queries via a GUI and retrieve data from the storage.  For the admin account, it not only has the same offline method as the user accounts but with an additional option to filter one/more/all users.
-
-### Access:
-- Command Line.  The program is allowed the command lines.  See testing section.
-- GUI.  [See User Manual](https://github.com/lxy878/Craigslist_App/blob/master/UserManual.pdf).
+  1. allows directly to search target terms from GUI to Craigslist.org.
+  2. allows offline search data of all/some users' data.
+  3. rebuilds the system from backup data.
+- Online search: allows users to obtain data and an image through GUI and persist the data on the local storage.  
+- Offline search: allows users to search terms through the local storage. For user accounts, the program will conduct offline queries via a GUI and retrieve data from the storage. For the admin account, it not only has the same offline method as the user accounts but with an additional option to filter one/more/all users.
 
 ### Other features:
 - The users have the option to limit the number of searching results.
 - The user can an advanced search, that chooses attributes of cities and categories.
+
+### Access:
+- Command Lines.  The program is allowed the command lines.  See the testing section.
+- GUI.  [See User Manual](https://github.com/lxy878/Craigslist_App/blob/master/UserManual.pdf).
 
 ## Simple Flow Chart:
 
