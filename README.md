@@ -44,7 +44,7 @@ A practic of fetching contexts from web pages by using Regex and Java libraries 
 
 ## Simple Flow Chart:
 
-<img src='https://github.com/lxy878/Craigslist_App/blob/master/DemoJavaApp.gif' title='Flow Chart' width='400' height='300' alt='Flow Chart' />
+<img src='https://github.com/lxy878/Craigslist_App/blob/master/flowchart.png' title='Flow Chart' width='400' height='300' alt='Flow Chart' />
 
 ## Testing:
  
