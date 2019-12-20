@@ -47,7 +47,7 @@ A practic of fetching contexts from web pages by using Regex and Java libraries 
 <img src='https://github.com/lxy878/Craigslist_App/blob/master/DemoJavaApp.gif' title='Flow Chart' width='400' height='300' alt='Flow Chart' />
 
 ## Testing:
-
+ 
 Warning: Do not remove any folder in the current directory. It may cause errors.
 
 Main_Command   -- run as command lines<br>
