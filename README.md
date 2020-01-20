@@ -1,11 +1,16 @@
 # Project - *Craigslist_App*
 
+## GUI Demo Showcase:
+
+<img src='https://github.com/lxy878/JavaApplication/blob/master/DemoJavaApp.gif' title='Video Walkthrough' width='400' height='300' alt='Video Walkthrough' />
+
+
 ## Purpose:
 
 A practice of fetching contexts from web pages by using **Regex** and **Java** libraries and designing GUIs by using **Javafx** and **FXML**.
 
 ### Overview:
-- Developed a Java application that follows users searching for information from craigslist.org.
+- Developed a Java application that allows users searching for the information from craigslist.org.
 - Built a persistent data storage by implementing Hashtable with txt files and jpg files.
 - Designed GUIs and command lines that allow users/admin searching and maintaining their data.
 
@@ -44,7 +49,7 @@ A practice of fetching contexts from web pages by using **Regex** and **Java** l
 
 ## Simple Flow Chart:
 
-<img src='https://github.com/lxy878/Craigslist_App/blob/master/flowchart.png' title='Flow Chart' width='600' height='450' alt='Flow Chart' />
+<img src='https://github.com/lxy878/Craigslist_App/blob/master/flowchart.png' title='Flow Chart' width='600' height='45 0' alt='Flow Chart' />
 
 ## Testing:
  
@@ -72,7 +77,3 @@ serverCity=**name server**;searchType=**name options**;search=**search terms**;l
 
 Note: multiple lines of searching are allowed.<br>
 Note: serverCity and searchType can be empty.
-
-## GUI Demo Showcase:
-
-<img src='https://github.com/lxy878/JavaApplication/blob/master/DemoJavaApp.gif' title='Video Walkthrough' width='400' height='300' alt='Video Walkthrough' />
